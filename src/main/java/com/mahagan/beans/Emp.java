@@ -1,5 +1,6 @@
 package com.mahagan.beans;
-  
+
+//This is some changes in this class
 public class Emp {  
 private int id;  
 private String name;  
